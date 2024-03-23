@@ -3,6 +3,16 @@
 # Aula Joe 22/03
 
 alteracao feita através da branch introdução.
+
+Como estudante e iniciante na área de tecnologia conheço algumas tecnologias como:
+- Python,
+- Node.js,
+- React Native,
+- TypeScript,
+- Sql,
+- Firebase,
+
+Todas em fase inicial de estudo.
 <!--
 **SrZeh/SrZeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
