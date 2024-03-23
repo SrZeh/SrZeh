@@ -1,4 +1,6 @@
 ### Hi there 👋
+## A small start to a great journey.
+# Aula Joe 22/03
 
 <!--
 **SrZeh/SrZeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
