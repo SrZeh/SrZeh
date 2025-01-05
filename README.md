@@ -3,7 +3,12 @@
 
 #Alguns trabalhos
 
-www.cartacasan.web.app
+
+upperminds.com.br
+vaaptynortedailha.com.br
+nossalei-bd3b6.web.app/
+cartacasan.web.app
+
 
 <!--
 **SrZeh/SrZeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
