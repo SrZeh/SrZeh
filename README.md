@@ -1,16 +1,16 @@
 ### Hi there 👋
 ## A small start to a great journey.
 
-#Alguns trabalhos
+# Alguns trabalhos
 
 
-upperminds.com.br
+www.upperminds.com.br
 
-vaaptynortedailha.com.br
+www.vaaptynortedailha.com.br
 
-nossalei-bd3b6.web.app/
+https://nossalei-bd3b6.web.app/
 
-cartacasan.web.app
+https://cartacasan.web.app
 
 
 <!--
