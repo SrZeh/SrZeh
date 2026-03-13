@@ -4,6 +4,12 @@
 # Alguns trabalhos
 
 
+https://neuroliderancapratica123.web.app
+
+https://play.google.com/store/apps/details?id=com.getanduseapp&pcampaignid=web_share
+
+https://geteuse.com.br
+
 https://upperminds.com.br
 
 www.vaaptynortedailha.com.br
