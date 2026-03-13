@@ -1,35 +1,24 @@
-### Hi there 👋
-## A small start to a great journey.
+# José Gabriel Berton
 
-# Alguns trabalhos
+Product-oriented developer focused on building real-world applications.
 
+## Main Project
 
-https://neuroliderancapratica123.web.app
+### Get & Use
+Peer-to-peer marketplace for sharing and renting items.
 
-https://play.google.com/store/apps/details?id=com.getanduseapp&pcampaignid=web_share
+Tech stack:
+React Native
+Expo
+TypeScript
+Firebase
+Mercado Pago
 
-https://geteuse.com.br
+Features:
+• User authentication
+• Item listings
+• Reservations
+• Chat system
+• Payment integration
 
-https://upperminds.com.br
-
-www.vaaptynortedailha.com.br
-
-https://nossalei-bd3b6.web.app/
-
-https://cartacasan.web.app
-
-
-<!--
-**SrZeh/SrZeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Published on Google Play.
