@@ -1,55 +1,43 @@
-# Get & Use
+# Olá, eu sou José Gabriel Berton
 
-A peer-to-peer marketplace for sharing and renting everyday items.
+**Product-Oriented Software Developer** · Fundador do [Get & Use](https://geteuse.com.br) · Florianópolis, SC
 
-## The Idea
+Construo produtos digitais de ponta a ponta: da ideia à arquitetura, desenvolvimento e lançamento. Minha trajetória combina **tecnologia**, **liderança** e **visão de produto**.
 
-Many items we own are used only a few times in their lifetime.
-Get & Use connects people who need something with others nearby who already have it.
+---
 
-Instead of buying, users can rent or share items locally.
+## Projetos em destaque
 
-This reduces waste, saves money and promotes a more sustainable use of resources.
+### Get & Use — Marketplace mobile
+Plataforma de aluguel de ferramentas entre usuários. Web + app na Play Store (beta).
 
-## Main Features
+**Stack:** React Native · Expo · TypeScript · Firebase (Auth, Firestore, Functions) · Mercado Pago
 
-• User authentication  
-• Item listings with images and descriptions  
-• Reservation system  
-• In-app chat between users  
-• Payment integration  
-• Transaction tracking
+- [Site](https://geteuse.com.br) · [Play Store](https://play.google.com/store/apps/details?id=com.getanduseapp)
 
-## Tech Stack
+### AmigoEmpresta
+Landing e início do conceito que evoluiu para o Get & Use.
 
-Mobile:
-React Native  
-Expo  
-TypeScript  
+### TMT
+Projeto entregue em produção.  
+*(Substitua pela URL correta do repo no GitHub, ex.: https://github.com/SrZeh/nome-do-repo-tmt)*
 
-Backend:
-Firebase  
-Cloud Functions  
+---
 
-Payments:
-Mercado Pago
+## Outros
 
-## Architecture
+- Conteúdo sobre liderança: [Neuroliderança Prática](https://neuroliderancapratica123.web.app)
+- Proposta de processos ágeis: [CASAN Mais Ágil](https://docs.google.com/presentation/d/1xyycOjxXu52-GP03p-7VmuathyQem86QAbNrYNfNHTc/edit?usp=sharing)
 
-The application uses Firebase services for:
+---
 
-Authentication  
-Database (Firestore)  
-Cloud Functions  
-Storage
+## Stack
 
-The mobile app is built with React Native using Expo for faster development and deployment.
+`TypeScript` `React` `React Native` `Expo` `Firebase` `Mercado Pago` `Git`
 
-## Vision
+---
 
-Get & Use aims to become a platform for the sharing economy,
-helping communities access items without needing to own them.
+## Contato
 
-## Author
-
-José Gabriel Berton
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-gabriel-berton-874401323/)
+[![Get & Use](https://img.shields.io/badge/Get_%26_Use-96ff9a?style=flat)](https://geteuse.com.br)
