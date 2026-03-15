@@ -20,7 +20,7 @@ Landing e início do conceito que evoluiu para o Get & Use.
 
 ### TMT
 Projeto entregue em produção.  
-*(Substitua pela URL correta do repo no GitHub, ex.: https://github.com/SrZeh/nome-do-repo-tmt)*
+[TMT Digital](https://github.com/viniciusgdoliveira/trail-making-test-digital)
 
 ---
 
